@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2061033732598042680",
+    "created_at": "2026-05-31T10:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061033732598042680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061033732598042680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我滥用过两次安非他酮感觉都很奇妙\n第一次别人对我说话我会很久才反应过来是对方在说话 吓一跳之后剧烈心悸 感觉世界要把我这个代码抛弃了不过还是有意识的就是一直在惊恐状态\n第二次我就无限循环在一个梦里一直晕过去醒来问我妈是现实还是梦镜然后又晕不过这个后面就伤人被五花大绑了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2061033732598042680",
+        "created_at": "2026-05-31T10:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061033732598042680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061033732598042680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我滥用过两次安非他酮感觉都很奇妙\n第一次别人对我说话我会很久才反应过来是对方在说话 吓一跳之后剧烈心悸 感觉世界要把我这个代码抛弃了不过还是有意识的就是一直在惊恐状态\n第二次我就无限循环在一个梦里一直晕过去醒来问我妈是现实还是梦镜然后又晕不过这个后面就伤人被五花大绑了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 121,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      }
+    ]
+  }
+}

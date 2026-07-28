@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2059501332437045654",
+    "created_at": "2026-05-27T10:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059585309470531816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795563405845078018",
+          "start": 0,
+          "username": "Kusunoki_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059585309470531816",
+    "in_reply_to_user_id": "1795563405845078018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059580367984881865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusunoki_kawaii 不需要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2059501332437045654",
+        "created_at": "2026-05-27T10:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059585309470531816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795563405845078018",
+              "start": 0,
+              "username": "Kusunoki_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059585309470531816",
+        "in_reply_to_user_id": "1795563405845078018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059580367984881865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusunoki_kawaii 不需要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795563405845078018",
+        "conversation_id": "2059501332437045654",
+        "created_at": "2026-05-27T10:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059580367984881865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059473208299118592",
+              "start": 0,
+              "username": "oxolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059580367984881865",
+        "in_reply_to_user_id": "2059473208299118592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059501332437045654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxolyy 这个好买吗 需要开处方吗TvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 38,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T21:11:04.000Z",
+        "description": "🚪52/99｜一切都纯绿｜可以纯绿陪玩/血图定制/疤痕举牌｜其他请过门咨询(｡ì _ í｡)｜只收口令红包｜卖纸烟和电子烟｜我是一个小土豆@PoTATo_zZ_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "PoTATo_zZ_"
+              }
+            ]
+          }
+        },
+        "id": "1795563405845078018",
+        "location": "梦境",
+        "name": "嗔",
+        "pinned_tweet_id": "1998271514127565082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059336947156582400/JARDfwo4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 199,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 681
+        },
+        "username": "Kusunoki_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

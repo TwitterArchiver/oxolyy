@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2059870113202065906",
+    "created_at": "2026-05-28T05:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059870113202065906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059870113202065906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我舅一直在说我不上班，然后说什么我外婆心脏有病，都活蹦乱跳的，然后我年纪轻轻，大脑出什么问题，我前额叶受损不是我能控制的好吗，吃药控制大脑中枢，让我嗜睡症没精力心情无理由低落狂躁，还说我不认亲人在网上认识一些不三不四的人骗人 难道年轻人不能生病吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2059870113202065906",
+        "created_at": "2026-05-28T05:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059870113202065906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059870113202065906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我舅一直在说我不上班，然后说什么我外婆心脏有病，都活蹦乱跳的，然后我年纪轻轻，大脑出什么问题，我前额叶受损不是我能控制的好吗，吃药控制大脑中枢，让我嗜睡症没精力心情无理由低落狂躁，还说我不认亲人在网上认识一些不三不四的人骗人 难道年轻人不能生病吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 76,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      }
+    ]
+  }
+}

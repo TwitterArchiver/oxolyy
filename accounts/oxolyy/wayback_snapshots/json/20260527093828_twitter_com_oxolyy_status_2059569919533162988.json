@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2059501332437045654",
+    "created_at": "2026-05-27T09:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059569919533162988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055019833969012736",
+          "start": 0,
+          "username": "Xiaonaiovo707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059569919533162988",
+    "in_reply_to_user_id": "2055019833969012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059545446398484508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaonaiovo707 普通药店都有呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2059501332437045654",
+        "created_at": "2026-05-27T09:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059569919533162988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055019833969012736",
+              "start": 0,
+              "username": "Xiaonaiovo707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059569919533162988",
+        "in_reply_to_user_id": "2055019833969012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059545446398484508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaonaiovo707 普通药店都有呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055019833969012736",
+        "conversation_id": "2059501332437045654",
+        "created_at": "2026-05-27T08:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059545446398484508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059473208299118592",
+              "start": 0,
+              "username": "oxolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059545446398484508",
+        "in_reply_to_user_id": "2059473208299118592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059501332437045654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxolyy 宝宝在香港哪里能买到呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 34,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T20:19:15.000Z",
+        "description": "09 168 82 休学od自残很缺钱\n前世500fo惨招贱人陷害\n坐标15 问题20 请给我钱˙˚ʚ(꒪ˊ꒳ˋ꒪)ɞ˚˙\n互fo互转大欢迎 不是黄推目前暂时不接线下",
+        "id": "2055019833969012736",
+        "name": "ナナぴ",
+        "pinned_tweet_id": "2059245886052733233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055020303605219328/5l0y8l_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 45,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "Xiaonaiovo707",
+        "verified": false
+      }
+    ]
+  }
+}

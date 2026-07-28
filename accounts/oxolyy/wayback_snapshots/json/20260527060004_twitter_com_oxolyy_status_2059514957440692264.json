@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2059479860507254803",
+    "created_at": "2026-05-27T06:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059514957440692264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752344070385696768",
+          "start": 0,
+          "username": "date_reina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059514957440692264",
+    "in_reply_to_user_id": "1752344070385696768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059510936885407786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@date_reina 药也不可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2059479860507254803",
+        "created_at": "2026-05-27T06:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059514957440692264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752344070385696768",
+              "start": 0,
+              "username": "date_reina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059514957440692264",
+        "in_reply_to_user_id": "1752344070385696768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059510936885407786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@date_reina 药也不可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752344070385696768",
+        "conversation_id": "2059479860507254803",
+        "created_at": "2026-05-27T05:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059510936885407786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059473208299118592",
+              "start": 0,
+              "username": "oxolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059510936885407786",
+        "in_reply_to_user_id": "2059473208299118592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059479860507254803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxolyy 自伤这些 不建议放到bio里 会可能封号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:52:58.000Z",
+        "description": "Adult Content NSFW / TS / 174cm / 60kg / B杯 / 泛性恋 / 穿孔 / 纹身 / 视觉系 / coser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hbkhutchat",
+                "end": 23,
+                "expanded_url": "https://t.me/Hbkhutchat",
+                "start": 0,
+                "url": "https://t.co/E8j5VW5sVG"
+              }
+            ]
+          }
+        },
+        "id": "1752344070385696768",
+        "location": "Contact me →",
+        "name": "伊达铃奈",
+        "pinned_tweet_id": "2023278031415263718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058722765616615424/FnL0YD_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13393,
+          "following_count": 1094,
+          "like_count": 5621,
+          "listed_count": 72,
+          "media_count": 175,
+          "tweet_count": 7662
+        },
+        "url": "https://t.co/E8j5VW5sVG",
+        "username": "date_reina",
+        "verified": true
+      }
+    ]
+  }
+}

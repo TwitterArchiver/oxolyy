@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059872364247277568",
+        "3_2059872364234780672"
+      ]
+    },
+    "author_id": "2059473208299118592",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059872381423014326",
+    "created_at": "2026-05-28T05:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059872381423014326"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 1,
+          "tag": "bakugo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LurIlTfhfU",
+          "end": 32,
+          "expanded_url": "https://x.com/oxolyy/status/2059872381423014326/photo/1",
+          "media_key": "3_2059872364247277568",
+          "start": 9,
+          "url": "https://t.co/LurIlTfhfU"
+        },
+        {
+          "display_url": "pic.x.com/LurIlTfhfU",
+          "end": 32,
+          "expanded_url": "https://x.com/oxolyy/status/2059872381423014326/photo/1",
+          "media_key": "3_2059872364234780672",
+          "start": 9,
+          "url": "https://t.co/LurIlTfhfU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059872381423014326",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💥#bakugo https://t.co/LurIlTfhfU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059872364247277568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYjAGmaYAAnM0c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059872364234780672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYjAGjbsAAsmdN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059872364247277568",
+            "3_2059872364234780672"
+          ]
+        },
+        "author_id": "2059473208299118592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059872381423014326",
+        "created_at": "2026-05-28T05:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059872381423014326"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 1,
+              "tag": "bakugo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LurIlTfhfU",
+              "end": 32,
+              "expanded_url": "https://x.com/oxolyy/status/2059872381423014326/photo/1",
+              "media_key": "3_2059872364247277568",
+              "start": 9,
+              "url": "https://t.co/LurIlTfhfU"
+            },
+            {
+              "display_url": "pic.x.com/LurIlTfhfU",
+              "end": 32,
+              "expanded_url": "https://x.com/oxolyy/status/2059872381423014326/photo/1",
+              "media_key": "3_2059872364234780672",
+              "start": 9,
+              "url": "https://t.co/LurIlTfhfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059872381423014326",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💥#bakugo https://t.co/LurIlTfhfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 79,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2061458637483323472",
+    "created_at": "2026-06-01T23:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061585765981901145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1571083414358609922",
+          "start": 0,
+          "username": "pb_rdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061585765981901145",
+    "in_reply_to_user_id": "1571083414358609922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061579891825639677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pb_rdd 打字有点艰难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2061458637483323472",
+        "created_at": "2026-06-01T23:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061585765981901145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1571083414358609922",
+              "start": 0,
+              "username": "pb_rdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061585765981901145",
+        "in_reply_to_user_id": "1571083414358609922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061579891825639677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pb_rdd 打字有点艰难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571083414358609922",
+        "conversation_id": "2061458637483323472",
+        "created_at": "2026-06-01T22:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061579891825639677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059473208299118592",
+              "start": 0,
+              "username": "oxolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061579891825639677",
+        "in_reply_to_user_id": "2059473208299118592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061526500084707353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxolyy 肠胃炎吗是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 130,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:27:41.000Z",
+        "description": "♂ loser \n悲观派系\\血腥猎奇\\悲悼伶人\n也许该好好营业一下？",
+        "id": "1571083414358609922",
+        "name": "鲨臂",
+        "pinned_tweet_id": "1599639393983115266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580436056486203392/7ELnkkVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 106,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 167
+        },
+        "username": "pb_rdd",
+        "verified": false
+      }
+    ]
+  }
+}

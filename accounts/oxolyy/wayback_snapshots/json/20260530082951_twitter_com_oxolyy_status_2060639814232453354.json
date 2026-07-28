@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942244065283911680"
+      ],
+      "media_source_tweet_id": [
+        "1942244077334085817"
+      ]
+    },
+    "author_id": "2059473208299118592",
+    "conversation_id": "2060639814232453354",
+    "created_at": "2026-05-30T08:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060639814232453354"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 40,
+          "start": 26,
+          "tag": "自撮り界隈さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1814652802313953280",
+          "start": 3,
+          "username": "yuu1021251832"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N9gaT34DPR",
+          "end": 64,
+          "expanded_url": "https://x.com/yuu1021251832/status/1942244077334085817/photo/1",
+          "media_key": "3_1942244065283911680",
+          "start": 41,
+          "url": "https://t.co/N9gaT34DPR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060639814232453354",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942244077334085817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuu1021251832: #自撮り界隈 #自撮り界隈さんと繋がりたい https://t.co/N9gaT34DPR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1942244065283911680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQ8r9pbsAAGF1T.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942244065283911680"
+          ],
+          "media_source_tweet_id": [
+            "1942244077334085817"
+          ]
+        },
+        "author_id": "2059473208299118592",
+        "conversation_id": "2060639814232453354",
+        "created_at": "2026-05-30T08:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060639814232453354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 40,
+              "start": 26,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1814652802313953280",
+              "start": 3,
+              "username": "yuu1021251832"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9gaT34DPR",
+              "end": 64,
+              "expanded_url": "https://x.com/yuu1021251832/status/1942244077334085817/photo/1",
+              "media_key": "3_1942244065283911680",
+              "start": 41,
+              "url": "https://t.co/N9gaT34DPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060639814232453354",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942244077334085817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuu1021251832: #自撮り界隈 #自撮り界隈さんと繋がりたい https://t.co/N9gaT34DPR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942244065283911680"
+          ]
+        },
+        "author_id": "1814652802313953280",
+        "conversation_id": "1942244077334085817",
+        "created_at": "2025-07-07T15:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942244077334085817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 21,
+              "start": 7,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9gaT34DPR",
+              "end": 45,
+              "expanded_url": "https://x.com/yuu1021251832/status/1942244077334085817/photo/1",
+              "media_key": "3_1942244065283911680",
+              "start": 22,
+              "url": "https://t.co/N9gaT34DPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942244077334085817",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14178,
+          "like_count": 189,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #自撮り界隈さんと繋がりたい https://t.co/N9gaT34DPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 119,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:27:41.000Z",
+        "description": "16↓\n地雷/病み垢/shtwt/goretwt",
+        "id": "1814652802313953280",
+        "name": "aめ",
+        "pinned_tweet_id": "1942244077334085817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060595817384448000/0N4tGGmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 78,
+          "like_count": 11735,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 1478
+        },
+        "username": "yuu1021251832",
+        "verified": false
+      }
+    ]
+  }
+}

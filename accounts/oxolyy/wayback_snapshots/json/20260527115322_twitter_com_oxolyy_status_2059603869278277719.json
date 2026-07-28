@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2059603869278277719",
+    "created_at": "2026-05-27T11:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059603869278277719"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "神待少女"
+        },
+        {
+          "end": 129,
+          "start": 125,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "兼职"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2042461556861255681",
+          "start": 3,
+          "username": "hitomi_0424__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059603869278277719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042474772240703880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitomi_0424__: 你们好我是刀刀 这是一个置顶 \n前世号炸了寻回前世互关还有门槛哥中\n求转发可以互转 转发到20抽几个13.14\n家里人不给零花钱只能靠这个为生……不要再举报我了\n欢迎同界限女孩子互fo互转 #门槛妹 #神待少女 #爸爸活 #兼职 #半绿 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042474752586203136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhT90qawAAqASA.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042474752598753280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhT90taQAARuit.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042474752590430208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhT90rbQAAwfqx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2042474752590430210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhT90rbQAIMobg.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2059603869278277719",
+        "created_at": "2026-05-27T11:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059603869278277719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "神待少女"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "兼职"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "半绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2042461556861255681",
+              "start": 3,
+              "username": "hitomi_0424__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059603869278277719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042474772240703880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitomi_0424__: 你们好我是刀刀 这是一个置顶 \n前世号炸了寻回前世互关还有门槛哥中\n求转发可以互转 转发到20抽几个13.14\n家里人不给零花钱只能靠这个为生……不要再举报我了\n欢迎同界限女孩子互fo互转 #门槛妹 #神待少女 #爸爸活 #兼职 #半绿 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042474752586203136",
+            "3_2042474752598753280",
+            "3_2042474752590430208",
+            "3_2042474752590430210"
+          ]
+        },
+        "author_id": "2042461556861255681",
+        "conversation_id": "2042474772240703880",
+        "created_at": "2026-04-10T05:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042474772240703880"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "神待少女"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "兼职"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "半绿"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "非绿"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "日系"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYWsi8QWxz",
+              "end": 156,
+              "expanded_url": "https://x.com/hitomi_0424__/status/2042474772240703880/photo/1",
+              "media_key": "3_2042474752586203136",
+              "start": 133,
+              "url": "https://t.co/hYWsi8QWxz"
+            },
+            {
+              "display_url": "pic.x.com/hYWsi8QWxz",
+              "end": 156,
+              "expanded_url": "https://x.com/hitomi_0424__/status/2042474772240703880/photo/1",
+              "media_key": "3_2042474752598753280",
+              "start": 133,
+              "url": "https://t.co/hYWsi8QWxz"
+            },
+            {
+              "display_url": "pic.x.com/hYWsi8QWxz",
+              "end": 156,
+              "expanded_url": "https://x.com/hitomi_0424__/status/2042474772240703880/photo/1",
+              "media_key": "3_2042474752590430208",
+              "start": 133,
+              "url": "https://t.co/hYWsi8QWxz"
+            },
+            {
+              "display_url": "pic.x.com/hYWsi8QWxz",
+              "end": 156,
+              "expanded_url": "https://x.com/hitomi_0424__/status/2042474772240703880/photo/1",
+              "media_key": "3_2042474752590430210",
+              "start": 133,
+              "url": "https://t.co/hYWsi8QWxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042474772240703880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21892,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是刀刀 这是一个置顶 \n前世号炸了寻回前世互关还有门槛哥中\n求转发可以互转 转发到20抽几个13.14\n家里人不给零花钱只能靠这个为生……不要再举报我了\n欢迎同界限女孩子互fo互转 #门槛妹 #神待少女 #爸爸活 #兼职 #半绿 #非绿 #日系 #ATM奴 https://t.co/hYWsi8QWxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 49,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T04:37:18.000Z",
+        "description": "我是刀刀 这是新号 前世@44Hitomi424\n🚪88 🚪188🚪288🚪520\n想和餐券妹交朋友 互关互转大欢迎\n问坐标20 我如果是骗子这辈子赚不到钱\n我真的很穷连外卖都舍不得点……做这个只为吃东西还有吃药药",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "44Hitomi424"
+              }
+            ]
+          }
+        },
+        "id": "2042461556861255681",
+        "location": "1.4km",
+        "name": "花一匁",
+        "pinned_tweet_id": "2042474772240703880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042462025625059331/eaNwTxRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 33,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 169
+        },
+        "username": "hitomi_0424__",
+        "verified": false
+      }
+    ]
+  }
+}
