@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T12:02:07",
+  "last_updated": "2026-07-28T12:02:26",
   "html": {
     "https://web.archive.org/web/20260527033126if_/https://twitter.com/oxolyy/status/2059477550922137821": {
       "status": "done",
@@ -1305,9 +1305,9 @@
       "referenced_by": [
         "20260527115312_twitter_com_oxolyy_status_2059603827054264512.json"
       ],
-      "last_updated": "2026-07-28T12:00:14",
+      "last_updated": "2026-07-28T12:02:26",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260527115312/https://video.twimg.com/amplify_video/2059354969577574400/vid/avc1/360x640/tYL381suJxvM_JnB.mp4",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
