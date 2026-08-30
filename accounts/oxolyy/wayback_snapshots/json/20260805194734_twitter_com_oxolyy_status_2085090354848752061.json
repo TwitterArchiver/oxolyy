@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2084883703533375571",
+    "created_at": "2026-08-05T19:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085090354848752061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2083772857914683393",
+          "start": 0,
+          "username": "h21gggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085090354848752061",
+    "in_reply_to_user_id": "2083772857914683393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084920597835051454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h21gggg 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2084883703533375571",
+        "created_at": "2026-08-05T19:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085090354848752061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2083772857914683393",
+              "start": 0,
+              "username": "h21gggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085090354848752061",
+        "in_reply_to_user_id": "2083772857914683393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084920597835051454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h21gggg 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083772857914683393",
+        "conversation_id": "2084883703533375571",
+        "created_at": "2026-08-05T08:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084920597835051454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059473208299118592",
+              "start": 0,
+              "username": "oxolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084920597835051454",
+        "in_reply_to_user_id": "2059473208299118592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084883703533375571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxolyy 我可以无限制供你一段时间药，然后你被我屠掉，好不好？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜四次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 146,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T04:33:49.000Z",
+        "description": "專門收治一切精神類病號\n如果你需要幫助或者解脫，都可以發帖@我並闡述妳的症狀\n如果是合適的病號，將轉發並給予你專屬病號\n❗線下也有專門基地、治療室，甚至是處決工廠和餐廳，若沒有適合預訂人，也會將你做成法器\n請真正有需要的人發帖並@我",
+        "id": "2083772857914683393",
+        "name": "21號病棟",
+        "pinned_tweet_id": "2085076097440641257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083773367031914496/nuqSWeMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 141,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "h21gggg",
+        "verified": false
+      }
+    ]
+  }
+}

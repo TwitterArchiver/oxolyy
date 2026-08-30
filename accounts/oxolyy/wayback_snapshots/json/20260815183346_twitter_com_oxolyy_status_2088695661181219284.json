@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088695648468307968",
+        "3_2088695648459890688"
+      ]
+    },
+    "author_id": "2059473208299118592",
+    "conversation_id": "2088695661181219284",
+    "created_at": "2026-08-15T18:33:46.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T19:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088695661181219284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0PuHmP9kF",
+          "end": 42,
+          "expanded_url": "https://x.com/oxolyy/status/2088695661181219284/photo/1",
+          "media_key": "3_2088695648468307968",
+          "start": 19,
+          "url": "https://t.co/M0PuHmP9kF"
+        },
+        {
+          "display_url": "pic.x.com/M0PuHmP9kF",
+          "end": 42,
+          "expanded_url": "https://x.com/oxolyy/status/2088695661181219284/photo/1",
+          "media_key": "3_2088695648459890688",
+          "start": 19,
+          "url": "https://t.co/M0PuHmP9kF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088695661181219284",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088695648468307968"
+      },
+      {
+        "media_key": "3_2088695648459890688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢icu托尼 谁的钟无艳女友快接走 https://t.co/M0PuHmP9kF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2088695648468307968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyJoDrbkAAE7zS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2011,
+        "media_key": "3_2088695648459890688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyJoDpbIAA_xzW.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088695648468307968",
+            "3_2088695648459890688"
+          ]
+        },
+        "author_id": "2059473208299118592",
+        "conversation_id": "2088695661181219284",
+        "created_at": "2026-08-15T18:33:46.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088695661181219284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0PuHmP9kF",
+              "end": 42,
+              "expanded_url": "https://x.com/oxolyy/status/2088695661181219284/photo/1",
+              "media_key": "3_2088695648468307968",
+              "start": 19,
+              "url": "https://t.co/M0PuHmP9kF"
+            },
+            {
+              "display_url": "pic.x.com/M0PuHmP9kF",
+              "end": 42,
+              "expanded_url": "https://x.com/oxolyy/status/2088695661181219284/photo/1",
+              "media_key": "3_2088695648459890688",
+              "start": 19,
+              "url": "https://t.co/M0PuHmP9kF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088695661181219284",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088695648468307968"
+          },
+          {
+            "media_key": "3_2088695648459890688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢icu托尼 谁的钟无艳女友快接走 https://t.co/M0PuHmP9kF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹｜双相情感障碍｜adhd｜认知障碍｜自杀6次进三次icu｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5AkhgojXIX"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "is_identity_verified": false,
+        "location": "看看你后面｜🚪52坐标10",
+        "most_recent_tweet_id": "2088695661181219284",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059473208299118592/1779852084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 183,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/5AkhgojXIX",
+        "username": "oxolyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
