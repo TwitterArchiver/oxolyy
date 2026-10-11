@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059473208299118592",
+    "conversation_id": "2098049650880336125",
+    "created_at": "2026-09-10T14:03:11.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T15:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098049650880336125"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098049650880336125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己也玩推特 干啥把我发到抖音赚流量让健全评论啊…自己也在那玩浣熊梗 有些人就是希望体面的死 不希望死了也被人评头论足 为什么不去在乎一下自杀的人为什么自杀 不过其实意外死亡也会被发到抖音我真的觉得太可怜了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2098049650880336125",
+        "created_at": "2026-09-10T14:03:11.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098049650880336125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098049650880336125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己也玩推特 干啥把我发到抖音赚流量让健全评论啊…自己也在那玩浣熊梗 有些人就是希望体面的死 不希望死了也被人评头论足 为什么不去在乎一下自杀的人为什么自杀 不过其实意外死亡也会被发到抖音我真的觉得太可怜了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜💊🈹｜双相情感障碍｜adhd｜认知障碍｜6次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日｜同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5AkhgojXIX"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "is_identity_verified": false,
+        "location": "看看你后面｜🚪52坐标10",
+        "most_recent_tweet_id": "2098049650880336125",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059473208299118592/1779852084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 246,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/5AkhgojXIX",
+        "username": "oxolyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
